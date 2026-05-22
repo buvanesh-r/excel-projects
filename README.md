@@ -4,7 +4,7 @@ An interactive Coffee Sales Dashboard built in Microsoft Excel to analyze sales 
 
 ##Dataset used:
 
-- <a herf="https://github.com/Buvanesh-R/Excel-projects/blob/main/coffeeOrdersDataDashboard.xlsx">dataset used </a>
+-<a herf="https://github.com/Buvanesh-R/Excel-projects/blob/main/coffeeOrdersDataDashboard.xlsx">Dataset used</a>
 
 📌Project Overview:
 This dashboard helps visualize coffee sales data across different countries, roast types, package sizes, and customer segments. It provides clear business insights through interactive filtering and graphical analysis.
@@ -34,7 +34,7 @@ This dashboard helps visualize coffee sales data across different countries, roa
 -Tracked monthly and yearly sales growth
 
 📷Dashboard Preview
-- <a herf="https://github.com/Buvanesh-R/Excel-projects/blob/main/Screenshot%202026-05-22%20121150.png">dashboard view</a>
+-<a herf="https://github.com/Buvanesh-R/Excel-projects/blob/main/Screenshot%202026-05-22%20121150.png">dashboard view</a>
 
 📷Screenshot
 <img width="1412" height="764" alt="Screenshot 2026-05-22 121150" src="https://github.com/user-attachments/assets/bb762080-a04e-4e55-a3f7-3f5b343fd78d" />
